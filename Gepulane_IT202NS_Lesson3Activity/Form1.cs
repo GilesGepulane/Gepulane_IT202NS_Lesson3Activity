@@ -42,5 +42,10 @@ namespace Gepulane_IT202NS_Lesson3Activity
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
